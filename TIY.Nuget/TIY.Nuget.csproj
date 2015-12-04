@@ -115,7 +115,7 @@
     <Content Include="DataServices\Packages.svc" />
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
-    <Content Include="Packages\Readme.txt" />
+    <Content Include="App_Data\Packages\Readme.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
