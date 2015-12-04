@@ -1,1 +1,1 @@
-﻿To add packages to the feed put package files (.nupkg files) in this folder.
+﻿To add packages to the feed put package files (.nupkg files) in this folder. 
